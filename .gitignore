@@ -1,0 +1,6 @@
+
+/hardhat-tutorial/node_modules
+hardhat-tutorial/package.json
+hardhat-tutorial/package-lock.json
+/hardhat-tutorial/artifacts
+/hardhat-tutorial/cache
